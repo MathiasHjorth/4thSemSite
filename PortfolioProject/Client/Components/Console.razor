@@ -1,0 +1,81 @@
+﻿
+
+
+@if (_consoleShowing)
+{
+ <div class="console">
+    <div class="consoleTopPanel">CONSOLE
+        @*<button onclick="@ToggleConsoleWindow">x</button>*@
+    </div>
+    <div class="consoleWindow">
+        <code class="consoleCode" style="color:white;">
+            @foreach(var story in ChatStory)
+            {        
+                    @Admin_Detail_Text
+                    if (@WriteTextToConsole(story).IsCompleted)
+                    {
+                        @*foreach(char c in )*@
+                    }
+                @WriteTextToConsole(story)
+                @story
+                <br />
+            }
+                @Admin_Detail_Text
+        </code>
+    </div>
+</div>
+<button onclick="@(() => WriteTextToConsole(@How))">Hvordan har du lavet siden?</button>
+<button>Fortæl lidt om dig selv</button>
+<button>Er du åben for et jobtilbud?</button>
+<button onclick="@(() => ClearConsole())">Ryd Console</button>
+}
+
+@code {
+    public List<string> ChatStory { get; set; } = new List<string>();
+
+    const string Admin_Detail_Text = "Web:Admin/Mathias> ";
+    public string? ConsoleText { get; set; }
+    public string? IntroText { get; set; } = "Hej med dig, velkommen til min side. Tag et kig omkring :) Du kan stille mig spørgsmål nedenfor her.";
+    public string? How { get; set; } = "Ah, ser du. Siden er skrevet i ASP.NET med Blazor WebAssembly. Det visuelle er repræsenteret med HTML og CSS, vha. Bootstrap";
+    private bool _consoleShowing = true;
+
+    protected async override Task OnInitializedAsync()
+    {
+        ChatStory.Add(IntroText);
+        //await Task.Run(() => WriteTextToConsole(IntroText));
+    }
+
+    private async Task<string> WriteTextToConsole(string text)
+    {
+
+        Random random = new Random();
+        foreach(char c in text)
+        {
+            if (c == ',' || c == '.')
+            {
+                text += c;
+                StateHasChanged();
+                await Task.Delay(random.Next(200,600));
+            }
+            else
+            {
+                text += c;
+                StateHasChanged();
+                await Task.Delay(40);
+            }
+        }
+        return "";
+
+    }
+
+    private void ClearConsole()
+    {
+        ChatStory.Clear();
+        StateHasChanged();
+    }
+
+    private void ToggleConsoleWindow()
+    {
+        _consoleShowing = false;
+    }
+}
