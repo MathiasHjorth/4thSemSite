@@ -1,0 +1,12 @@
+C:\Users\Jokle\Desktop\PortfolioSite\PortfolioProject\PortfolioProject\Shared\bin\Debug\net6.0\PortfolioProject.Shared.deps.json
+C:\Users\Jokle\Desktop\PortfolioSite\PortfolioProject\PortfolioProject\Shared\bin\Debug\net6.0\PortfolioProject.Shared.dll
+C:\Users\Jokle\Desktop\PortfolioSite\PortfolioProject\PortfolioProject\Shared\bin\Debug\net6.0\PortfolioProject.Shared.pdb
+C:\Users\Jokle\Desktop\PortfolioSite\PortfolioProject\PortfolioProject\Shared\obj\Debug\net6.0\PortfolioProject.Shared.csproj.AssemblyReference.cache
+C:\Users\Jokle\Desktop\PortfolioSite\PortfolioProject\PortfolioProject\Shared\obj\Debug\net6.0\PortfolioProject.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jokle\Desktop\PortfolioSite\PortfolioProject\PortfolioProject\Shared\obj\Debug\net6.0\PortfolioProject.Shared.AssemblyInfoInputs.cache
+C:\Users\Jokle\Desktop\PortfolioSite\PortfolioProject\PortfolioProject\Shared\obj\Debug\net6.0\PortfolioProject.Shared.AssemblyInfo.cs
+C:\Users\Jokle\Desktop\PortfolioSite\PortfolioProject\PortfolioProject\Shared\obj\Debug\net6.0\PortfolioProject.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Jokle\Desktop\PortfolioSite\PortfolioProject\PortfolioProject\Shared\obj\Debug\net6.0\PortfolioProject.Shared.dll
+C:\Users\Jokle\Desktop\PortfolioSite\PortfolioProject\PortfolioProject\Shared\obj\Debug\net6.0\refint\PortfolioProject.Shared.dll
+C:\Users\Jokle\Desktop\PortfolioSite\PortfolioProject\PortfolioProject\Shared\obj\Debug\net6.0\PortfolioProject.Shared.pdb
+C:\Users\Jokle\Desktop\PortfolioSite\PortfolioProject\PortfolioProject\Shared\obj\Debug\net6.0\ref\PortfolioProject.Shared.dll

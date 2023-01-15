@@ -1,0 +1,69 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = PortfolioProject.Client
+build_property.RootNamespace = PortfolioProject.Client
+build_property.ProjectDir = C:\Users\Jokle\Desktop\PortfolioSite\PortfolioProject\PortfolioProject\Client\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Jokle\Desktop\PortfolioSite\PortfolioProject\PortfolioProject\Client
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Jokle/Desktop/PortfolioSite/PortfolioProject/PortfolioProject/Client/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jokle/Desktop/PortfolioSite/PortfolioProject/PortfolioProject/Client/Pages/Authentication.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXV0aGVudGljYXRpb24ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jokle/Desktop/PortfolioSite/PortfolioProject/PortfolioProject/Client/Pages/FetchData.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jokle/Desktop/PortfolioSite/PortfolioProject/PortfolioProject/Client/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jokle/Desktop/PortfolioSite/PortfolioProject/PortfolioProject/Client/Shared/ErrorPage.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEVycm9yUGFnZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jokle/Desktop/PortfolioSite/PortfolioProject/PortfolioProject/Client/Shared/LoginDisplay.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXExvZ2luRGlzcGxheS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jokle/Desktop/PortfolioSite/PortfolioProject/PortfolioProject/Client/Shared/RedirectToLogin.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFJlZGlyZWN0VG9Mb2dpbi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jokle/Desktop/PortfolioSite/PortfolioProject/PortfolioProject/Client/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jokle/Desktop/PortfolioSite/PortfolioProject/PortfolioProject/Client/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jokle/Desktop/PortfolioSite/PortfolioProject/PortfolioProject/Client/Pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-2j7tymnxix
+
+[C:/Users/Jokle/Desktop/PortfolioSite/PortfolioProject/PortfolioProject/Client/Pages/Project.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvamVjdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-0h2d1wu857
+
+[C:/Users/Jokle/Desktop/PortfolioSite/PortfolioProject/PortfolioProject/Client/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-silwx13l01
+
+[C:/Users/Jokle/Desktop/PortfolioSite/PortfolioProject/PortfolioProject/Client/Shared/NavigationMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdmlnYXRpb25NZW51LnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-kzil3p1w8y

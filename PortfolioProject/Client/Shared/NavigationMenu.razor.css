@@ -1,0 +1,130 @@
+﻿
+@font-face {
+    font-family: Rubik-Black;
+    src: url(../fonts/Rubik/Rubik-Black.ttf) format('truetype');
+}
+@font-face {
+    font-family: Rubik-LightItalic;
+    src: url(../fonts/Rubik/Rubik-LightItalic.ttf) format('truetype');
+}
+@font-face {
+    font-family: Rubik-Regular;
+    src: url(../fonts/Rubik/Rubik-Regular.ttf) format('truetype');
+}
+@font-face {
+    font-family: Rubik-Medium;
+    src: url(../fonts/Rubik/Rubik-Medium.ttf) format('truetype');
+}
+@font-face {
+    font-family: Rubik-Bold;
+    src: url(../fonts/Rubik/Rubik-Bold.ttf) format('truetype');
+}
+@font-face {
+    font-family: Rubik-Light;
+    src: url(../fonts/Rubik/Rubik-Light.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: Sansation-Bold;
+    src: url(../fonts/Sansation/Sansation-Bold.ttf) format('truetype');
+}
+@font-face {
+    font-family: Sansation-Regular;
+    src: url(../fonts/Sansation/Sansation-Regular.ttf) format('truetype');
+}
+
+
+.navbar {
+    background-color: #233D4D !important;
+}
+
+.nav-link {
+    color: #FCCA46 !important;
+    padding-right: 2px !important;
+    font-family: Sansation-Bold;
+    font-size: 17px !important;
+    transition: color 0.3s;
+}
+
+    .nav-link:hover {
+        color: white !important;
+    }
+
+
+.bi-caret-down-fill {
+    color: #619B8A !important;
+    font-size: 19px !important;
+    transition: color 0.3s;
+}
+
+    .bi-caret-down-fill:hover {
+        color: white !important;
+    }
+    .bi-caret-down-fill:hover .dropdown-content{
+        display:block;
+    }
+
+.bi-github {
+    color: #FCCA46 !important;
+    font-size: 25px !important;
+    transition: color 0.3s;
+}
+
+    .bi-github:hover {
+        color: white !important;
+    }
+
+.bi-linkedin {
+    color: #FCCA46 !important;
+    font-size: 25px !important;
+    transition: color 0.3s;
+}
+
+    .bi-linkedin:hover {
+        color: white !important;
+    }
+
+.container {
+    padding-left: 33px;
+    padding-right: 33px;
+}
+
+
+.dropbtn {
+    background-color: gray;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+}
+
+.dropdown {
+    display: flex;
+    align-items:center;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #212529;
+    min-width:170px;
+}
+
+    .dropdown-content a {
+        color: springgreen;
+        padding: 12px 16px;
+        text-decoration: none;
+        display: block;
+    }
+    .dropdown-content a:hover{
+        color:white;
+    }
+
+.dropdown:hover .dropdown-content {
+    display: block;
+    top:31px;
+}
+
+.dropdown:hover .dropbtn {
+    background-color: #3e8e41;
+}

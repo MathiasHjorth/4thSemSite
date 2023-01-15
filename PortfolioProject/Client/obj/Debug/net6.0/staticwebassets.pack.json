@@ -1,0 +1,257 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Jokle\\Desktop\\PortfolioSite\\PortfolioProject\\PortfolioProject\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\Users\\Jokle\\Desktop\\PortfolioSite\\PortfolioProject\\PortfolioProject\\Client\\obj\\Debug\\net6.0\\build-gz\\+EXUHXgc.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "C:\\Users\\Jokle\\Desktop\\PortfolioSite\\PortfolioProject\\PortfolioProject\\Client\\obj\\Debug\\net6.0\\scopedcss\\bundle\\PortfolioProject.Client.styles.css",
+      "PackagePath": "staticwebassets\\PortfolioProject.Client.styles.css"
+    },
+    {
+      "Id": "C:\\Users\\Jokle\\Desktop\\PortfolioSite\\PortfolioProject\\PortfolioProject\\Client\\wwwroot\\css\\ColorsFontsREADME.txt",
+      "PackagePath": "staticwebassets\\css\\ColorsFontsREADME.txt"
+    },
+    {
+      "Id": "C:\\Users\\Jokle\\Desktop\\PortfolioSite\\PortfolioProject\\PortfolioProject\\Client\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\Jokle\\Desktop\\PortfolioSite\\PortfolioProject\\PortfolioProject\\Client\\wwwroot\\css\\bootstrap-icons.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\Jokle\\Desktop\\PortfolioSite\\PortfolioProject\\PortfolioProject\\Client\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Jokle\\Desktop\\PortfolioSite\\PortfolioProject\\PortfolioProject\\Client\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Jokle\\Desktop\\PortfolioSite\\PortfolioProject\\PortfolioProject\\Client\\wwwroot\\css\\fonts\\bootstrap-icons.woff",
+      "PackagePath": "staticwebassets\\css\\fonts\\bootstrap-icons.woff"
+    },
+    {
+      "Id": "C:\\Users\\Jokle\\Desktop\\PortfolioSite\\PortfolioProject\\PortfolioProject\\Client\\wwwroot\\css\\fonts\\bootstrap-icons.woff2",
+      "PackagePath": "staticwebassets\\css\\fonts\\bootstrap-icons.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Jokle\\Desktop\\PortfolioSite\\PortfolioProject\\PortfolioProject\\Client\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "C:\\Users\\Jokle\\Desktop\\PortfolioSite\\PortfolioProject\\PortfolioProject\\Client\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "C:\\Users\\Jokle\\Desktop\\PortfolioSite\\PortfolioProject\\PortfolioProject\\Client\\wwwroot\\css\\open-iconic\\README.md",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\Jokle\\Desktop\\PortfolioSite\\PortfolioProject\\PortfolioProject\\Client\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Jokle\\Desktop\\PortfolioSite\\PortfolioProject\\PortfolioProject\\Client\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
+    },
+    {
+      "Id": "C:\\Users\\Jokle\\Desktop\\PortfolioSite\\PortfolioProject\\PortfolioProject\\Client\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
+    },
+    {
+      "Id": "C:\\Users\\Jokle\\Desktop\\PortfolioSite\\PortfolioProject\\PortfolioProject\\Client\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
+    },
+    {
+      "Id": "C:\\Users\\Jokle\\Desktop\\PortfolioSite\\PortfolioProject\\PortfolioProject\\Client\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Jokle\\Desktop\\PortfolioSite\\PortfolioProject\\PortfolioProject\\Client\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
+    },
+    {
+      "Id": "C:\\Users\\Jokle\\Desktop\\PortfolioSite\\PortfolioProject\\PortfolioProject\\Client\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Jokle\\Desktop\\PortfolioSite\\PortfolioProject\\PortfolioProject\\Client\\wwwroot\\fonts\\Roboto\\Roboto-Black.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Roboto\\Roboto-Black.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Jokle\\Desktop\\PortfolioSite\\PortfolioProject\\PortfolioProject\\Client\\wwwroot\\fonts\\Roboto\\Roboto-BlackItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Roboto\\Roboto-BlackItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Jokle\\Desktop\\PortfolioSite\\PortfolioProject\\PortfolioProject\\Client\\wwwroot\\fonts\\Roboto\\Roboto-Bold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Roboto\\Roboto-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Jokle\\Desktop\\PortfolioSite\\PortfolioProject\\PortfolioProject\\Client\\wwwroot\\fonts\\Roboto\\Roboto-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Roboto\\Roboto-BoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Jokle\\Desktop\\PortfolioSite\\PortfolioProject\\PortfolioProject\\Client\\wwwroot\\fonts\\Roboto\\Roboto-Italic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Roboto\\Roboto-Italic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Jokle\\Desktop\\PortfolioSite\\PortfolioProject\\PortfolioProject\\Client\\wwwroot\\fonts\\Roboto\\Roboto-Light.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Roboto\\Roboto-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Jokle\\Desktop\\PortfolioSite\\PortfolioProject\\PortfolioProject\\Client\\wwwroot\\fonts\\Roboto\\Roboto-LightItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Roboto\\Roboto-LightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Jokle\\Desktop\\PortfolioSite\\PortfolioProject\\PortfolioProject\\Client\\wwwroot\\fonts\\Roboto\\Roboto-Medium.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Roboto\\Roboto-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Jokle\\Desktop\\PortfolioSite\\PortfolioProject\\PortfolioProject\\Client\\wwwroot\\fonts\\Roboto\\Roboto-MediumItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Roboto\\Roboto-MediumItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Jokle\\Desktop\\PortfolioSite\\PortfolioProject\\PortfolioProject\\Client\\wwwroot\\fonts\\Roboto\\Roboto-Regular.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Roboto\\Roboto-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Jokle\\Desktop\\PortfolioSite\\PortfolioProject\\PortfolioProject\\Client\\wwwroot\\fonts\\Roboto\\Roboto-Thin.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Roboto\\Roboto-Thin.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Jokle\\Desktop\\PortfolioSite\\PortfolioProject\\PortfolioProject\\Client\\wwwroot\\fonts\\Roboto\\Roboto-ThinItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Roboto\\Roboto-ThinItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Jokle\\Desktop\\PortfolioSite\\PortfolioProject\\PortfolioProject\\Client\\wwwroot\\fonts\\Rubik\\Rubik-Black.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Rubik\\Rubik-Black.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Jokle\\Desktop\\PortfolioSite\\PortfolioProject\\PortfolioProject\\Client\\wwwroot\\fonts\\Rubik\\Rubik-BlackItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Rubik\\Rubik-BlackItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Jokle\\Desktop\\PortfolioSite\\PortfolioProject\\PortfolioProject\\Client\\wwwroot\\fonts\\Rubik\\Rubik-Bold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Rubik\\Rubik-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Jokle\\Desktop\\PortfolioSite\\PortfolioProject\\PortfolioProject\\Client\\wwwroot\\fonts\\Rubik\\Rubik-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Rubik\\Rubik-BoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Jokle\\Desktop\\PortfolioSite\\PortfolioProject\\PortfolioProject\\Client\\wwwroot\\fonts\\Rubik\\Rubik-Italic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Rubik\\Rubik-Italic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Jokle\\Desktop\\PortfolioSite\\PortfolioProject\\PortfolioProject\\Client\\wwwroot\\fonts\\Rubik\\Rubik-Light.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Rubik\\Rubik-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Jokle\\Desktop\\PortfolioSite\\PortfolioProject\\PortfolioProject\\Client\\wwwroot\\fonts\\Rubik\\Rubik-LightItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Rubik\\Rubik-LightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Jokle\\Desktop\\PortfolioSite\\PortfolioProject\\PortfolioProject\\Client\\wwwroot\\fonts\\Rubik\\Rubik-Medium.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Rubik\\Rubik-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Jokle\\Desktop\\PortfolioSite\\PortfolioProject\\PortfolioProject\\Client\\wwwroot\\fonts\\Rubik\\Rubik-MediumItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Rubik\\Rubik-MediumItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Jokle\\Desktop\\PortfolioSite\\PortfolioProject\\PortfolioProject\\Client\\wwwroot\\fonts\\Rubik\\Rubik-Regular.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Rubik\\Rubik-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Jokle\\Desktop\\PortfolioSite\\PortfolioProject\\PortfolioProject\\Client\\wwwroot\\fonts\\Sansation\\Sansation-Bold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Sansation\\Sansation-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Jokle\\Desktop\\PortfolioSite\\PortfolioProject\\PortfolioProject\\Client\\wwwroot\\fonts\\Sansation\\Sansation-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Sansation\\Sansation-BoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Jokle\\Desktop\\PortfolioSite\\PortfolioProject\\PortfolioProject\\Client\\wwwroot\\fonts\\Sansation\\Sansation-Italic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Sansation\\Sansation-Italic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Jokle\\Desktop\\PortfolioSite\\PortfolioProject\\PortfolioProject\\Client\\wwwroot\\fonts\\Sansation\\Sansation-Light.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Sansation\\Sansation-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Jokle\\Desktop\\PortfolioSite\\PortfolioProject\\PortfolioProject\\Client\\wwwroot\\fonts\\Sansation\\Sansation-LightItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Sansation\\Sansation-LightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Jokle\\Desktop\\PortfolioSite\\PortfolioProject\\PortfolioProject\\Client\\wwwroot\\fonts\\Sansation\\Sansation-Regular.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Sansation\\Sansation-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Jokle\\Desktop\\PortfolioSite\\PortfolioProject\\PortfolioProject\\Client\\wwwroot\\fonts\\Walkway\\Walkway_Black.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Walkway\\Walkway_Black.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Jokle\\Desktop\\PortfolioSite\\PortfolioProject\\PortfolioProject\\Client\\wwwroot\\fonts\\Walkway\\Walkway_Bold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Walkway\\Walkway_Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Jokle\\Desktop\\PortfolioSite\\PortfolioProject\\PortfolioProject\\Client\\wwwroot\\fonts\\Walkway\\Walkway_Oblique.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Walkway\\Walkway_Oblique.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Jokle\\Desktop\\PortfolioSite\\PortfolioProject\\PortfolioProject\\Client\\wwwroot\\fonts\\Walkway\\Walkway_Oblique_Black.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Walkway\\Walkway_Oblique_Black.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Jokle\\Desktop\\PortfolioSite\\PortfolioProject\\PortfolioProject\\Client\\wwwroot\\fonts\\Walkway\\Walkway_Oblique_Bold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Walkway\\Walkway_Oblique_Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Jokle\\Desktop\\PortfolioSite\\PortfolioProject\\PortfolioProject\\Client\\wwwroot\\fonts\\Walkway\\Walkway_Oblique_SemiBold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Walkway\\Walkway_Oblique_SemiBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Jokle\\Desktop\\PortfolioSite\\PortfolioProject\\PortfolioProject\\Client\\wwwroot\\fonts\\Walkway\\Walkway_Oblique_UltraBold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Walkway\\Walkway_Oblique_UltraBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Jokle\\Desktop\\PortfolioSite\\PortfolioProject\\PortfolioProject\\Client\\wwwroot\\fonts\\Walkway\\Walkway_SemiBold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Walkway\\Walkway_SemiBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Jokle\\Desktop\\PortfolioSite\\PortfolioProject\\PortfolioProject\\Client\\wwwroot\\fonts\\Walkway\\Walkway_UltraBold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Walkway\\Walkway_UltraBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Jokle\\Desktop\\PortfolioSite\\PortfolioProject\\PortfolioProject\\Client\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "C:\\Users\\Jokle\\Desktop\\PortfolioSite\\PortfolioProject\\PortfolioProject\\Client\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.PortfolioProject.Client.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.PortfolioProject.Client.props",
+      "PackagePath": "build\\PortfolioProject.Client.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.PortfolioProject.Client.props",
+      "PackagePath": "buildMultiTargeting\\PortfolioProject.Client.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.PortfolioProject.Client.props",
+      "PackagePath": "buildTransitive\\PortfolioProject.Client.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
